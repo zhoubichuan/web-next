@@ -77,7 +77,7 @@ module.exports = {
     ],
     sidebar: {
       '/base/build/': [
-        '1.config',
+        '1.index',
         '2.webpack',
         '3.file',
         '4.single',
@@ -102,7 +102,7 @@ module.exports = {
         'i18n'
       ],
       '/senior/use/': [
-        '1.recursionAndDynamics',
+        '1.index',
         '2.extend',
         '3.componentCommunication',
         '4.render',
