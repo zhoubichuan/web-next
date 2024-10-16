@@ -54,7 +54,7 @@ module.exports = {
         items: [
           {
             text: '1.基础知识',
-            link: '/base/build/1.config'
+            link: '/base/build/1.index'
           },
           {
             text: '2.简单案例',
@@ -66,7 +66,7 @@ module.exports = {
         text: '项目实战',
         items: [{
           text: '1.初级项目',
-          link: '/senior/use/1.recursionAndDynamics'
+          link: '/senior/use/1.index'
         },
         {
           text: '2.高级项目',
